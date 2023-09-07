@@ -47,7 +47,7 @@ st.session_state['button1'] = True
 st.session_state['button2'] = True
 
 firstcol1, firstcol2 = st.columns(2)
-st.write('lol2')
+
 
 with firstcol1:
 
